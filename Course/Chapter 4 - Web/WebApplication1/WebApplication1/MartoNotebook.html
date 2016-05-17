@@ -38,16 +38,41 @@
             border-top: none;
             border-bottom-left-radius: 8px;
             border-bottom-right-radius: 8px;
+            vertical-align: top;
         }
 
         .left-inner { 
             display: inline-block;
-            width: 380px;
-            height: 100%;
+            width: 360px;
+            height: calc(100% - 20px);
+            vertical-align: top;
+            padding: 10px;
         }
 
         .right-inner { 
+            width: 218px;
+            height: 100%;
             display: inline-block;
+            vertical-align: top;
+
+            text-align: center;
+        }
+
+        .right-inner-content { 
+            height: 100%;
+            display: table;
+            width: 100%;
+        }
+
+        .right-inner-cell { 
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .left-inner table { 
+            width: 100%;
+            height: 100%;
+            border: 1px solid black;
         }
 
     </style>
@@ -72,19 +97,53 @@
 
             <div class="left-inner">
 
-            </div>
-            <div class="right-inner">
-                <p class="font">Min price: 500 USD</p>
-                <input type="range" data-show-value="true" name="price" id="Min Price" value="750" min="500" max="1000" />
+                <table>
+                    <tbody>
+                        <tr>
+                            <td>
 
-                <p class="font">Max price: 1500 USD</p>
-                <input type="range" data-show-value="true" name="price" id="Min Price" value="1250" min="1000" max="1500" />
+                            </td>
+                            <td>
 
-                <p class="font">Min RAM: 4 GB</p>
-                <input type="range" data-show-value="true" name="price" id="Min Price" value="6" min="4" max="8" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
 
-                <p class="font">Max RAM: 16 GB</p>
-                <input type="range" data-show-value="true" name="price" id="Min Price" value="12" min="8" max="16" />
+                            </td>
+                            <td>
+
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+
+                            </td>
+                            <td>
+
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+
+            </div><div class="right-inner">
+                <div class="right-inner-content">
+                    <div class="right-inner-cell">
+
+                        <p class="font">Min price: 500 USD</p>
+                        <input type="range" data-show-value="true" name="price" id="Min Price" value="750" min="500" max="1000" />
+
+                        <p class="font">Max price: 1500 USD</p>
+                        <input type="range" data-show-value="true" name="price" id="Min Price" value="1250" min="1000" max="1500" />
+
+                        <p class="font">Min RAM: 4 GB</p>
+                        <input type="range" data-show-value="true" name="price" id="Min Price" value="6" min="4" max="8" />
+
+                        <p class="font">Max RAM: 16 GB</p>
+                        <input type="range" data-show-value="true" name="price" id="Min Price" value="12" min="8" max="16" />
+
+                    </div>
+                </div>
             </div>
 
 
