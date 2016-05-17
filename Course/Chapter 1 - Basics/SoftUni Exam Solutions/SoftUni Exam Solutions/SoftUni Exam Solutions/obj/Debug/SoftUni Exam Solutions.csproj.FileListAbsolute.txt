@@ -1,0 +1,6 @@
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\SoftUni Exam Solutions\bin\Debug\SoftUni Exam Solutions.exe.config
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\SoftUni Exam Solutions\bin\Debug\SoftUni Exam Solutions.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\SoftUni Exam Solutions\bin\Debug\SoftUni Exam Solutions.pdb
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\SoftUni Exam Solutions\obj\Debug\SoftUni Exam Solutions.csprojResolveAssemblyReference.cache
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\SoftUni Exam Solutions\obj\Debug\SoftUni Exam Solutions.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\SoftUni Exam Solutions\obj\Debug\SoftUni Exam Solutions.pdb

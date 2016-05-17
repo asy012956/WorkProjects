@@ -1,0 +1,8 @@
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\bin\Debug\ExamTests.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\bin\Debug\ExamTests.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\bin\Debug\ExamSolved.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\bin\Debug\ExamSolved.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\obj\Debug\ExamTests.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\obj\Debug\ExamTests.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Exam 25 July 2014 Morning\ExamSolved\ExamTests\obj\Debug\ExamTests.pdb

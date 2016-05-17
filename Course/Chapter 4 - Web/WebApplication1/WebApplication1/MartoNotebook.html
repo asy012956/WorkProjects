@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+
+    <style>
+        .content-holder {
+            width: 600px;
+            /*border: 1px solid black;
+            border-radius: 5px;*/
+        }
+
+        .content-holder header { 
+            border: 1px solid black;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+
+        .content-holder ul { 
+            text-align: center;
+            list-style-type: none;
+            padding: 10px;
+            margin: 0px;
+        }
+
+        .content-holder header ul li {
+            display: inline-block;
+        }
+
+        .content-holder header ul li a {
+            
+        }
+
+        .inside-holder { 
+            height: 500px;
+            border: 1px solid black;
+            border-top: none;
+            border-bottom-left-radius: 8px;
+            border-bottom-right-radius: 8px;
+        }
+
+        .left-inner { 
+            display: inline-block;
+            width: 380px;
+            height: 100%;
+        }
+
+        .right-inner { 
+            display: inline-block;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="content-holder">
+
+        <header>
+            <ul>
+                <li><a href="http://www.apple.com"><b>Apple</b></a></li>
+                <li><a href="http://www.toshiba.com"><b>Toshiba</b></a></li>
+                <li><a href="http://www.lenovo.com"><b>Lenovo</b></a></li>
+                <li><a href="http://www.dell.com"><b>Dell</b></a></li>
+                <li><a href="http://www.asus.com"><b>Asus</b></a></li>
+                <li><a href="http://www.acer.com"><b>Acer</b></a></li>
+                <li><a href="http://www.hp.com"><b>HP</b></a></li>
+            </ul>
+        </header>
+
+        <div class="inside-holder">
+
+            <div class="left-inner">
+
+            </div>
+            <div class="right-inner">
+                <p class="font">Min price: 500 USD</p>
+                <input type="range" data-show-value="true" name="price" id="Min Price" value="750" min="500" max="1000" />
+
+                <p class="font">Max price: 1500 USD</p>
+                <input type="range" data-show-value="true" name="price" id="Min Price" value="1250" min="1000" max="1500" />
+
+                <p class="font">Min RAM: 4 GB</p>
+                <input type="range" data-show-value="true" name="price" id="Min Price" value="6" min="4" max="8" />
+
+                <p class="font">Max RAM: 16 GB</p>
+                <input type="range" data-show-value="true" name="price" id="Min Price" value="12" min="8" max="16" />
+            </div>
+
+
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,16 @@
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\obj\Debug\BasicGraduationTests.csprojResolveAssemblyReference.cache
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicGraduationTests.dll
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicGraduationTests.pdb
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicsGraduation.exe
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicsGraduation.pdb
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\obj\Debug\BasicGraduationTests.dll
+D:\ASY\Extra Exercises\ThreeTasks\BasicGraduationTests\obj\Debug\BasicGraduationTests.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicGraduationTests.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicGraduationTests.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicsGraduation.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\bin\Debug\BasicsGraduation.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\obj\Debug\BasicGraduationTests.csprojResolveAssemblyReference.cache
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\obj\Debug\BasicGraduationTests.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicGraduationTests\obj\Debug\BasicGraduationTests.pdb

@@ -1,0 +1,6 @@
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Sample Exam May 2014\ExamSolved\ExamSolved\bin\Debug\ExamSolved.exe.config
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Sample Exam May 2014\ExamSolved\ExamSolved\bin\Debug\ExamSolved.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Sample Exam May 2014\ExamSolved\ExamSolved\bin\Debug\ExamSolved.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Sample Exam May 2014\ExamSolved\ExamSolved\obj\Debug\ExamSolved.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Sample Exam May 2014\ExamSolved\ExamSolved\obj\Debug\ExamSolved.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\All SoftUni Exams Solved\CSharp Basics Sample Exam May 2014\ExamSolved\ExamSolved\obj\Debug\ExamSolved.pdb

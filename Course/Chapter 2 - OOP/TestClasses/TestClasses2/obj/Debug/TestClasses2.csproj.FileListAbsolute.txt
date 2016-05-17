@@ -1,0 +1,6 @@
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\TestClasses2\bin\Debug\TestClasses2.exe.config
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\TestClasses2\bin\Debug\TestClasses2.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\TestClasses2\bin\Debug\TestClasses2.pdb
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\TestClasses2\obj\Debug\TestClasses2.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\TestClasses2\obj\Debug\TestClasses2.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\TestClasses2\obj\Debug\TestClasses2.pdb

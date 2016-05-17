@@ -1,0 +1,8 @@
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\bin\Debug\OddEvenSumTestProject.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\bin\Debug\OddEvenSumTestProject.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\bin\Debug\SoftUniExam10April2014.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\bin\Debug\SoftUniExam10April2014.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\obj\Debug\OddEvenSumTestProject.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\obj\Debug\OddEvenSumTestProject.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\OddEvenSumTestProject\obj\Debug\OddEvenSumTestProject.pdb

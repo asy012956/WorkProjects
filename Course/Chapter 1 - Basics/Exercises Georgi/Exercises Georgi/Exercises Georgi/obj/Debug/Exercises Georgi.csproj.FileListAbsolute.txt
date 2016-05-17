@@ -1,0 +1,12 @@
+D:\ASY\Exercises Georgi\Exercises Georgi\Exercises Georgi\bin\Debug\Exercises Georgi.exe.config
+D:\ASY\Exercises Georgi\Exercises Georgi\Exercises Georgi\bin\Debug\Exercises Georgi.exe
+D:\ASY\Exercises Georgi\Exercises Georgi\Exercises Georgi\bin\Debug\Exercises Georgi.pdb
+D:\ASY\Exercises Georgi\Exercises Georgi\Exercises Georgi\obj\Debug\Exercises Georgi.csprojResolveAssemblyReference.cache
+D:\ASY\Exercises Georgi\Exercises Georgi\Exercises Georgi\obj\Debug\Exercises Georgi.exe
+D:\ASY\Exercises Georgi\Exercises Georgi\Exercises Georgi\obj\Debug\Exercises Georgi.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\Exercises Georgi\bin\Debug\Exercises Georgi.exe.config
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\Exercises Georgi\obj\Debug\Exercises Georgi.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\Exercises Georgi\obj\Debug\Exercises Georgi.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\Exercises Georgi\bin\Debug\Exercises Georgi.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\Exercises Georgi\bin\Debug\Exercises Georgi.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\Exercises Georgi\obj\Debug\Exercises Georgi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,16 @@
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\obj\Debug\TestDate.csprojResolveAssemblyReference.cache
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\bin\Debug\TestDate.dll
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\bin\Debug\TestDate.pdb
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\bin\Debug\ThreeTasks.exe
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\bin\Debug\ThreeTasks.pdb
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\obj\Debug\TestDate.dll
+D:\ASY\Extra Exercises\ThreeTasks\TestDate\obj\Debug\TestDate.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\bin\Debug\TestDate.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\bin\Debug\TestDate.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\bin\Debug\ThreeTasks.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\bin\Debug\ThreeTasks.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\obj\Debug\TestDate.csprojResolveAssemblyReference.cache
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\obj\Debug\TestDate.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TestDate\obj\Debug\TestDate.pdb

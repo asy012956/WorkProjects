@@ -1,0 +1,6 @@
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\CakeTycoon\bin\Debug\CakeTycoon.exe.config
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\CakeTycoon\bin\Debug\CakeTycoon.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\CakeTycoon\bin\Debug\CakeTycoon.pdb
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\CakeTycoon\obj\Debug\CakeTycoon.csprojResolveAssemblyReference.cache
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\CakeTycoon\obj\Debug\CakeTycoon.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\CakeTycoon\obj\Debug\CakeTycoon.pdb

@@ -1,0 +1,6 @@
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\NewClassesPlusLINQ\bin\Debug\NewClassesPlusLINQ.exe.config
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\NewClassesPlusLINQ\bin\Debug\NewClassesPlusLINQ.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\NewClassesPlusLINQ\bin\Debug\NewClassesPlusLINQ.pdb
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\NewClassesPlusLINQ\obj\Debug\NewClassesPlusLINQ.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\NewClassesPlusLINQ\obj\Debug\NewClassesPlusLINQ.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\NewClassesPlusLINQ\obj\Debug\NewClassesPlusLINQ.pdb

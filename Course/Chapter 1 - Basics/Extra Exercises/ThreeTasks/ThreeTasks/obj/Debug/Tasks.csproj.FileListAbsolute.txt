@@ -1,0 +1,12 @@
+D:\ASY\Extra Exercises\ThreeTasks\ThreeTasks\obj\Debug\ThreeTasks.exe
+D:\ASY\Extra Exercises\ThreeTasks\ThreeTasks\obj\Debug\ThreeTasks.pdb
+D:\ASY\Extra Exercises\ThreeTasks\ThreeTasks\bin\Debug\ThreeTasks.exe.config
+D:\ASY\Extra Exercises\ThreeTasks\ThreeTasks\bin\Debug\ThreeTasks.exe
+D:\ASY\Extra Exercises\ThreeTasks\ThreeTasks\bin\Debug\ThreeTasks.pdb
+D:\ASY\Extra Exercises\ThreeTasks\ThreeTasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\ThreeTasks\bin\Debug\ThreeTasks.exe.config
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\ThreeTasks\obj\Debug\ThreeTasks.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\ThreeTasks\obj\Debug\ThreeTasks.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\ThreeTasks\bin\Debug\ThreeTasks.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\ThreeTasks\bin\Debug\ThreeTasks.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\ThreeTasks\obj\Debug\Tasks.csprojResolveAssemblyReference.cache

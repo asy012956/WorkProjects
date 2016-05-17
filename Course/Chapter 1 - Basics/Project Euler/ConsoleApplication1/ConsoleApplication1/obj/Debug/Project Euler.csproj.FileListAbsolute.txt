@@ -1,0 +1,6 @@
+D:\ASY\Project Euler\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ASY\Project Euler\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ASY\Project Euler\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ASY\Project Euler\ConsoleApplication1\ConsoleApplication1\obj\Debug\Project Euler.csprojResolveAssemblyReference.cache
+D:\ASY\Project Euler\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ASY\Project Euler\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

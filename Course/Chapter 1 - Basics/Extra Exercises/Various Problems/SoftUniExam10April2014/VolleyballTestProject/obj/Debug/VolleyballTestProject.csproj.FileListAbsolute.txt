@@ -1,0 +1,8 @@
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\bin\Debug\VolleyballTestProject.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\bin\Debug\VolleyballTestProject.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\bin\Debug\SoftUniExam10April2014.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\bin\Debug\SoftUniExam10April2014.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\obj\Debug\VolleyballTestProject.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\obj\Debug\VolleyballTestProject.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Extra Exercises\Various Problems\SoftUniExam10April2014\VolleyballTestProject\obj\Debug\VolleyballTestProject.pdb

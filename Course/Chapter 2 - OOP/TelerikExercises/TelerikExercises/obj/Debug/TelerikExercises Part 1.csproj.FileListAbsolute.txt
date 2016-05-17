@@ -1,0 +1,6 @@
+D:\ASY Projects\Course\Chapter 2 - OOP\TelerikExercises\TelerikExercises\bin\Debug\TelerikExercises.exe.config
+D:\ASY Projects\Course\Chapter 2 - OOP\TelerikExercises\TelerikExercises\bin\Debug\TelerikExercises.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TelerikExercises\TelerikExercises\bin\Debug\TelerikExercises.pdb
+D:\ASY Projects\Course\Chapter 2 - OOP\TelerikExercises\TelerikExercises\obj\Debug\TelerikExercises Part 1.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 2 - OOP\TelerikExercises\TelerikExercises\obj\Debug\TelerikExercises.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TelerikExercises\TelerikExercises\obj\Debug\TelerikExercises.pdb

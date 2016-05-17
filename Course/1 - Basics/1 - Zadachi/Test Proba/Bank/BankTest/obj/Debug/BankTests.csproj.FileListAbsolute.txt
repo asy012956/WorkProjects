@@ -1,0 +1,8 @@
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\bin\Debug\BankTest.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\bin\Debug\BankTest.pdb
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\bin\Debug\Bank.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\bin\Debug\Bank.pdb
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\obj\Debug\BankTests.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\obj\Debug\BankTest.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\BankTest\obj\Debug\BankTest.pdb

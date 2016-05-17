@@ -1,0 +1,5 @@
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\Bank\bin\Debug\Bank.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\Bank\bin\Debug\Bank.pdb
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\Bank\obj\Debug\Bank.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Test Proba\Bank\Bank\obj\Debug\Bank.pdb

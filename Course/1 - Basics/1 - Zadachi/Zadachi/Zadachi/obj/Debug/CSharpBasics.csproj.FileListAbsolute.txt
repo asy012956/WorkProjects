@@ -1,0 +1,8 @@
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\bin\Debug\Zadachi.exe.config
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\bin\Debug\Zadachi.exe
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\bin\Debug\Zadachi.pdb
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\obj\Debug\Zadachi.exe
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\obj\Debug\Zadachi.pdb
+\\st131\D\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\bin\Debug\Zadachi.exe.config
+\\st131\D\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\obj\Debug\Zadachi.exe
+\\st131\D\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\Zadachi\obj\Debug\Zadachi.pdb

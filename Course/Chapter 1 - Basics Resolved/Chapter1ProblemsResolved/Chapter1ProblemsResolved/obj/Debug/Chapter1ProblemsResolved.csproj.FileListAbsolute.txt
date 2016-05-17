@@ -1,0 +1,12 @@
+D:\ASY\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\bin\Debug\Chapter1ProblemsResolved.exe.config
+D:\ASY\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\bin\Debug\Chapter1ProblemsResolved.exe
+D:\ASY\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\bin\Debug\Chapter1ProblemsResolved.pdb
+D:\ASY\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\obj\Debug\Chapter1ProblemsResolved.csprojResolveAssemblyReference.cache
+D:\ASY\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\obj\Debug\Chapter1ProblemsResolved.exe
+D:\ASY\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\obj\Debug\Chapter1ProblemsResolved.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\bin\Debug\Chapter1ProblemsResolved.exe.config
+D:\ASY Projects\Course\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\obj\Debug\Chapter1ProblemsResolved.exe
+D:\ASY Projects\Course\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\obj\Debug\Chapter1ProblemsResolved.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\bin\Debug\Chapter1ProblemsResolved.exe
+D:\ASY Projects\Course\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\bin\Debug\Chapter1ProblemsResolved.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics Resolved\Chapter1ProblemsResolved\Chapter1ProblemsResolved\obj\Debug\Chapter1ProblemsResolved.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TasksTests\bin\Debug\TasksTests.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TasksTests\bin\Debug\TasksTests.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TasksTests\bin\Debug\ThreeTasks.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TasksTests\bin\Debug\ThreeTasks.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TasksTests\obj\Debug\TasksTests.csprojResolveAssemblyReference.cache
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TasksTests\obj\Debug\TasksTests.dll
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\TasksTests\obj\Debug\TasksTests.pdb

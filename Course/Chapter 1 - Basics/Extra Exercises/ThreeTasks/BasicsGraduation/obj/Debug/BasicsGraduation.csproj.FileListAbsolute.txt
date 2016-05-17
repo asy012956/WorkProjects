@@ -1,0 +1,12 @@
+D:\ASY\Extra Exercises\ThreeTasks\BasicsGraduation\bin\Debug\BasicsGraduation.exe.config
+D:\ASY\Extra Exercises\ThreeTasks\BasicsGraduation\bin\Debug\BasicsGraduation.exe
+D:\ASY\Extra Exercises\ThreeTasks\BasicsGraduation\bin\Debug\BasicsGraduation.pdb
+D:\ASY\Extra Exercises\ThreeTasks\BasicsGraduation\obj\Debug\BasicsGraduation.exe
+D:\ASY\Extra Exercises\ThreeTasks\BasicsGraduation\obj\Debug\BasicsGraduation.pdb
+D:\ASY\Extra Exercises\ThreeTasks\BasicsGraduation\obj\Debug\BasicsGraduation.csprojResolveAssemblyReference.cache
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicsGraduation\bin\Debug\BasicsGraduation.exe.config
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicsGraduation\obj\Debug\BasicsGraduation.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicsGraduation\obj\Debug\BasicsGraduation.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicsGraduation\bin\Debug\BasicsGraduation.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicsGraduation\bin\Debug\BasicsGraduation.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ThreeTasks\BasicsGraduation\obj\Debug\BasicsGraduation.csprojResolveAssemblyReference.cache

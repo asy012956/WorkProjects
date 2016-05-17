@@ -1,0 +1,6 @@
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Uprajnenie\Uprajnenie\bin\Debug\Uprajnenie.exe.config
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Uprajnenie\Uprajnenie\bin\Debug\Uprajnenie.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Uprajnenie\Uprajnenie\bin\Debug\Uprajnenie.pdb
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Uprajnenie\Uprajnenie\obj\Debug\Uprajnenie.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Uprajnenie\Uprajnenie\obj\Debug\Uprajnenie.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Uprajnenie\Uprajnenie\obj\Debug\Uprajnenie.pdb

@@ -1,0 +1,5 @@
+D:\ASY\Unit Testing Exercise\Bank\Bank\bin\Debug\Bank.dll
+D:\ASY\Unit Testing Exercise\Bank\Bank\bin\Debug\Bank.pdb
+D:\ASY\Unit Testing Exercise\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\ASY\Unit Testing Exercise\Bank\Bank\obj\Debug\Bank.dll
+D:\ASY\Unit Testing Exercise\Bank\Bank\obj\Debug\Bank.pdb

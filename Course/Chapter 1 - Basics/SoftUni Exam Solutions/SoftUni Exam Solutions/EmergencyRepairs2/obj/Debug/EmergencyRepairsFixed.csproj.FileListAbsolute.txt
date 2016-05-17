@@ -1,0 +1,6 @@
+D:\ASY\SoftUni Exam Solutions\SoftUni Exam Solutions\EmergencyRepairs2\bin\Debug\EmergencyRepairs2.exe.config
+D:\ASY\SoftUni Exam Solutions\SoftUni Exam Solutions\EmergencyRepairs2\bin\Debug\EmergencyRepairs2.exe
+D:\ASY\SoftUni Exam Solutions\SoftUni Exam Solutions\EmergencyRepairs2\bin\Debug\EmergencyRepairs2.pdb
+D:\ASY\SoftUni Exam Solutions\SoftUni Exam Solutions\EmergencyRepairs2\obj\Debug\EmergencyRepairsFixed.csprojResolveAssemblyReference.cache
+D:\ASY\SoftUni Exam Solutions\SoftUni Exam Solutions\EmergencyRepairs2\obj\Debug\EmergencyRepairs2.exe
+D:\ASY\SoftUni Exam Solutions\SoftUni Exam Solutions\EmergencyRepairs2\obj\Debug\EmergencyRepairs2.pdb

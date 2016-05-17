@@ -1,0 +1,16 @@
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\TestsToExercisesGeorgi.dll
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\TestsToExercisesGeorgi.pdb
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\Exercises Georgi.exe
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\Exercises Georgi.pdb
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\obj\Debug\TestsToExercisesGeorgi.csprojResolveAssemblyReference.cache
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\obj\Debug\TestsToExercisesGeorgi.dll
+D:\ASY\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\obj\Debug\TestsToExercisesGeorgi.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\TestsToExercisesGeorgi.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\TestsToExercisesGeorgi.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\Exercises Georgi.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\bin\Debug\Exercises Georgi.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\obj\Debug\TestsToExercisesGeorgi.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\obj\Debug\TestsToExercisesGeorgi.dll
+D:\ASY Projects\Course\Chapter 1 - Basics\Exercises Georgi\Exercises Georgi\TestsToExercisesGeorgi\obj\Debug\TestsToExercisesGeorgi.pdb

@@ -1,0 +1,6 @@
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ApproachTraining3\ApproachTraining3\ApproachTraining3\bin\Debug\ApproachTraining3.exe.config
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ApproachTraining3\ApproachTraining3\ApproachTraining3\bin\Debug\ApproachTraining3.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ApproachTraining3\ApproachTraining3\ApproachTraining3\bin\Debug\ApproachTraining3.pdb
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ApproachTraining3\ApproachTraining3\ApproachTraining3\obj\Debug\ApproachTraining3.csprojResolveAssemblyReference.cache
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ApproachTraining3\ApproachTraining3\ApproachTraining3\obj\Debug\ApproachTraining3.exe
+D:\ASY\Chapter 1 - Basics\Extra Exercises\ApproachTraining3\ApproachTraining3\ApproachTraining3\obj\Debug\ApproachTraining3.pdb

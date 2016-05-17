@@ -1,0 +1,12 @@
+D:\ASY\Chapter 2 - OOP\TestClasses\OOPMastery\bin\Debug\OOPMastery.exe.config
+D:\ASY\Chapter 2 - OOP\TestClasses\OOPMastery\bin\Debug\OOPMastery.exe
+D:\ASY\Chapter 2 - OOP\TestClasses\OOPMastery\bin\Debug\OOPMastery.pdb
+D:\ASY\Chapter 2 - OOP\TestClasses\OOPMastery\obj\Debug\OOPMastery.exe
+D:\ASY\Chapter 2 - OOP\TestClasses\OOPMastery\obj\Debug\OOPMastery.pdb
+D:\ASY\Chapter 2 - OOP\TestClasses\OOPMastery\obj\Debug\OOPMastery.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\OOPMastery\bin\Debug\OOPMastery.exe.config
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\OOPMastery\bin\Debug\OOPMastery.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\OOPMastery\bin\Debug\OOPMastery.pdb
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\OOPMastery\obj\Debug\OOPMastery.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\OOPMastery\obj\Debug\OOPMastery.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\TestClasses\OOPMastery\obj\Debug\OOPMastery.pdb

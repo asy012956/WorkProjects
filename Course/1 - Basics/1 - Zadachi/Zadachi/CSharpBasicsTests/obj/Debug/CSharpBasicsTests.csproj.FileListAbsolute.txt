@@ -1,0 +1,7 @@
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\CSharpBasicsTests\obj\Debug\CSharpBasicsTests.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\CSharpBasicsTests\bin\Debug\CSharpBasicsTests.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\CSharpBasicsTests\bin\Debug\CSharpBasicsTests.pdb
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\CSharpBasicsTests\bin\Debug\Zadachi.exe
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\CSharpBasicsTests\bin\Debug\Zadachi.pdb
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\CSharpBasicsTests\obj\Debug\CSharpBasicsTests.dll
+D:\ASY Projects\Course\1 - Basics\1 - Zadachi\Zadachi\CSharpBasicsTests\obj\Debug\CSharpBasicsTests.pdb

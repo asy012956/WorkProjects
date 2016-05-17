@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterHerbalist", "SoftUni Exam Solutions\MasterHerbalist.csproj", "{0E480175-BED0-4CD6-8D23-5C3CBE6C5481}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeerStock", "BeerStock\BeerStock.csproj", "{96322C84-7C29-45C3-8C40-112B7EC4BB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlluminatiLock", "IlluminatiLock\IlluminatiLock.csproj", "{80ACCABD-AD44-40BC-8998-C142201DD02E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeTycoon", "CakeTycoon\CakeTycoon.csproj", "{A3B3FBC7-2FBC-4B21-B2BF-593D430D9C07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmergencyRepairs", "EmergencyRepairs\EmergencyRepairs.csproj", "{3FF35213-95E6-40FB-B595-7099DCA0AF51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmergencyRepairsFixed", "EmergencyRepairs2\EmergencyRepairsFixed.csproj", "{F50DB6BF-8B36-430D-B4E4-1C4D1CABA260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E480175-BED0-4CD6-8D23-5C3CBE6C5481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E480175-BED0-4CD6-8D23-5C3CBE6C5481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E480175-BED0-4CD6-8D23-5C3CBE6C5481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E480175-BED0-4CD6-8D23-5C3CBE6C5481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96322C84-7C29-45C3-8C40-112B7EC4BB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96322C84-7C29-45C3-8C40-112B7EC4BB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96322C84-7C29-45C3-8C40-112B7EC4BB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96322C84-7C29-45C3-8C40-112B7EC4BB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80ACCABD-AD44-40BC-8998-C142201DD02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80ACCABD-AD44-40BC-8998-C142201DD02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80ACCABD-AD44-40BC-8998-C142201DD02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80ACCABD-AD44-40BC-8998-C142201DD02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B3FBC7-2FBC-4B21-B2BF-593D430D9C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B3FBC7-2FBC-4B21-B2BF-593D430D9C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B3FBC7-2FBC-4B21-B2BF-593D430D9C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B3FBC7-2FBC-4B21-B2BF-593D430D9C07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF35213-95E6-40FB-B595-7099DCA0AF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF35213-95E6-40FB-B595-7099DCA0AF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF35213-95E6-40FB-B595-7099DCA0AF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF35213-95E6-40FB-B595-7099DCA0AF51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50DB6BF-8B36-430D-B4E4-1C4D1CABA260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50DB6BF-8B36-430D-B4E4-1C4D1CABA260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50DB6BF-8B36-430D-B4E4-1C4D1CABA260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50DB6BF-8B36-430D-B4E4-1C4D1CABA260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

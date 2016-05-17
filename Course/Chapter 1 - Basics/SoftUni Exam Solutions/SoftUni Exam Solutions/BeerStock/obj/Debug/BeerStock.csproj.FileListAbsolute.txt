@@ -1,0 +1,5 @@
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\BeerStock\bin\Debug\BeerStock.exe.config
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\BeerStock\bin\Debug\BeerStock.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\BeerStock\bin\Debug\BeerStock.pdb
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\BeerStock\obj\Debug\BeerStock.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\BeerStock\obj\Debug\BeerStock.pdb

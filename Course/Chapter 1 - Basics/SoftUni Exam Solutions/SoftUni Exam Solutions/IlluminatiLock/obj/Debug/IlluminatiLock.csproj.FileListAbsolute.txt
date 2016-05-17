@@ -1,0 +1,6 @@
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\IlluminatiLock\bin\Debug\IlluminatiLock.exe.config
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\IlluminatiLock\bin\Debug\IlluminatiLock.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\IlluminatiLock\bin\Debug\IlluminatiLock.pdb
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\IlluminatiLock\obj\Debug\IlluminatiLock.csprojResolveAssemblyReference.cache
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\IlluminatiLock\obj\Debug\IlluminatiLock.exe
+C:\Users\ASY\Desktop\SoftUni Exam Solutions\SoftUni Exam Solutions\IlluminatiLock\obj\Debug\IlluminatiLock.pdb

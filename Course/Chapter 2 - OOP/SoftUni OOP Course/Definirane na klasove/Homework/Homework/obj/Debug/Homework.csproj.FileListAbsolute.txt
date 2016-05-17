@@ -1,0 +1,6 @@
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Homework\Homework\bin\Debug\Homework.exe.config
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Homework\Homework\bin\Debug\Homework.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Homework\Homework\bin\Debug\Homework.pdb
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Homework\Homework\obj\Debug\Homework.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Homework\Homework\obj\Debug\Homework.exe
+D:\ASY Projects\Course\Chapter 2 - OOP\SoftUni OOP Course\Definirane na klasove\Homework\Homework\obj\Debug\Homework.pdb

@@ -1,0 +1,6 @@
+D:\ASY Projects\Course\Chapter 1 - Basics\SoftUni Exercises Solutions\SoftUniExercisesSolutions\SoftUniExercisesSolutions\bin\Debug\SoftUniExercisesSolutions.exe.config
+D:\ASY Projects\Course\Chapter 1 - Basics\SoftUni Exercises Solutions\SoftUniExercisesSolutions\SoftUniExercisesSolutions\bin\Debug\SoftUniExercisesSolutions.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\SoftUni Exercises Solutions\SoftUniExercisesSolutions\SoftUniExercisesSolutions\bin\Debug\SoftUniExercisesSolutions.pdb
+D:\ASY Projects\Course\Chapter 1 - Basics\SoftUni Exercises Solutions\SoftUniExercisesSolutions\SoftUniExercisesSolutions\obj\Debug\SoftUniExercisesSolutions.csprojResolveAssemblyReference.cache
+D:\ASY Projects\Course\Chapter 1 - Basics\SoftUni Exercises Solutions\SoftUniExercisesSolutions\SoftUniExercisesSolutions\obj\Debug\SoftUniExercisesSolutions.exe
+D:\ASY Projects\Course\Chapter 1 - Basics\SoftUni Exercises Solutions\SoftUniExercisesSolutions\SoftUniExercisesSolutions\obj\Debug\SoftUniExercisesSolutions.pdb
